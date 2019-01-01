@@ -11,5 +11,5 @@ if responseLength:
     for element in responseBody:
         print '%d --> %s' % (element['id'], element['email'])
 else:
-    print 'Error: empty response!'
+    print('Error: empty response!')
 
