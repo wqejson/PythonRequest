@@ -1,6 +1,6 @@
 '''
-1. suma toatala a literelor din TOATE dictionarele (cheile + valorile)  COMPLETED
-2. Suma toatala literelor din fiecare dictionar in parte COMPLETED
+1. suma toatala a literelor din TOATE dictionarele (cheile + valorile)  REVIEW
+2. Suma toatala literelor din fiecare dictionar in parte REVIEW
 3. afiseaza dictionarul intreg, care are cele mai multe litere in el for loop
 '''
 
